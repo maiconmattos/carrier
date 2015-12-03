@@ -1,2 +1,2 @@
 # carrier
-Hazelcast as metadata carrier
+Apache Ignite as metadata carrier
